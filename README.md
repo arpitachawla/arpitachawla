@@ -1,8 +1,4 @@
 <h1 align="center">✨ Hello, I am <span style="color:#00CFFF;">Arpita Chawla</span> ✨</h1>
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Arpita+Chawla;Undergraduate+%7C+Adaptable+Learner;ML+%7C+DL+%7C+Data+Science+Enthusiast;C+Language+Explorer" />
-</h1>
-
 ---
 
 ## 🖋 About Me
