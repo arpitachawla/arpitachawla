@@ -1,5 +1,4 @@
 <h1 align="center">✨ Hello, I am <span style="color:#00CFFF;">Arpita Chawla</span> ✨</h1>
----
 
 ## 🖋 About Me
 ✨ Passionate **undergraduate** dedicated to adaptability and continuous learning.  
